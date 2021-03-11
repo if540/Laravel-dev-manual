@@ -1,2 +1,2 @@
 # Laravel-dev-manual
-Laravel 開發學
+Laravel 開發學習手冊
